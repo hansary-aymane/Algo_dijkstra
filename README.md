@@ -1,2 +1,2 @@
 # Algo_dijkstra
-Implimentation d'algorithme de Dikjstra en Python
+Implementation of Dijkstra's Algorithm in Python
